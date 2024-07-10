@@ -1,6 +1,6 @@
 ## This is my readme file 👋
 Please go to 
- <a href="https://www.emmamcbryde.github.io/emmamcbryde/#about)" target="_blank">My landing page</a>
+ <a href="https://emmamcbryde.github.io/emmamcbryde/#about)" target="_blank">My landing page</a>
  to see my academic portfolio.
 <!--
 **emmamcbryde/emmamcbryde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
